@@ -57,7 +57,7 @@ The game follows a classic Snake layout:
 
 Design and layout proofs are included in the `mockups/` folder:
 
-- `mockups/class.png` — class diagram for the project architecture
+- `mockups/class.png`
 - `mockups/Bonus_Score.png`
 - `mockups/Bonus_Taille.png`
 - `mockups/Malus.png`
@@ -65,6 +65,18 @@ Design and layout proofs are included in the `mockups/` folder:
 ### Class diagram
 
 ![Class diagram](mockups/class.png)
+
+### Bonus Score
+
+![Bonus Score](mockups/Bonus_Score.png)
+
+### Bonus Taille
+
+![Bonus Taille](mockups/Bonus_Taille.png)
+
+### Malus
+
+![Malus](mockups/Malus.png)
 
 ## Development tasks
 
